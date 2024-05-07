@@ -5,13 +5,13 @@ Weapon rolls are curated by ToxicMinds community members, compiled from various 
 # How To Subscribe
 Open Destiny Item Manager and pull open the settings from the hamburger menu. Click on wishlist in the sidebar to scroll down to the wishlist section.
 In the "add another wishlist" field, paste this URL: https://raw.githubusercontent.com/TheNameBrand/ToxicMindsD2Rolls/main/ToxicMindsD2Rolls.txt -- This links to the weapon file in this repository.
-You're done. If any changes are made to this file, it will update over a period of 24 hours (so editors, don't expect to go farming the same day you add your god-rolls to the list).
-Wishlisted items will show with a "thumbs up" in the inventory overview. If configured, "trash rolls" (bad perk combos) will be a thumbs down.
-Check the Triage for notes which may say why the perk combo was wishlisted, which community member included it, etc.
+You're done. If any changes are made to this file, it will update over a period of 24 hours (so editors, don't expect to see wishlist items the same day you add your god-rolls to the list). You might be able to force an update by removing this list, then adding the link back again (SOMEBODY CONFIRM).
+Wishlisted items will show with a "thumbs up" in the inventory overview. Also, "trash rolls" (bad perk combos) will be shown with a thumbs down.
+Check the Triage tab for notes which may say why the perk combo was wishlisted, which community member included it, etc.
 
 # How To Edit
-For editing access, DM @TheNameBrand on Discord and he'll add you to this GitHub? I think that's how that works...
-Editors can push changes to the TXT file here to add rolls to the list.
+For editing access, DM @TheNameBrand on Discord and he'll add you to this GitHub.
+Editors can push changes to the TXT file directly on GitHub to add rolls to the list.
 
 You're going to want to bookmark DIMs Community_Curations README https://github.com/DestinyItemManager/DIM/blob/master/docs/COMMUNITY_CURATIONS.md as it contains all the information you need to know about how the wishlist file will be processed in DIM, so you can know how to mark things in the actual text file. Definitely read it all the way through. This will inform you on how to make notes, what sites will help you build out all your rolls, etc. I'm not going to summarize everything they have to say.
 
