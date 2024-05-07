@@ -1,5 +1,5 @@
-title:This is a compiled collection of god/recommended rolls from users in the ToxicMinds Discord server.
-description:Our contributers are CrazedChrizz, TheNameBrand,
+title:ToxicMindsD2Rolls
+description:This is a compiled collection of god/recommended rolls from users in the ToxicMinds Discord server. Our contributers are CrazedChrizz, TheNameBrand.
 
 // hosted on GitHub at https://github.com/TheNameBrand/ToxicMindsD2Rolls/tree/main
 
