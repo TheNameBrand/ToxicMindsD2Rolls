@@ -10,8 +10,8 @@ Wishlisted items will show with a "thumbs up" in the inventory overview. Also, "
 Check the Triage tab for notes which may say why the perk combo was wishlisted, which community member included it, etc.
 
 # How To Edit
-For editing access, DM @TheNameBrand on Discord and he'll add you to this GitHub.
-Editors can push changes to the TXT file directly on GitHub to add rolls to the list.
+For editing access, all you need is a GitHub account. Then DM @TheNameBrand on Discord with your GitHub username and he'll add you to this repository.
+If you're a Collaborator, you can push changes to the TXT file directly on GitHub (no extra mumbo jumbo required!) as you add rolls to what will hopefully be the ever expanding community weapon wishlist.
 
 You're going to want to bookmark DIMs Community_Curations README https://github.com/DestinyItemManager/DIM/blob/master/docs/COMMUNITY_CURATIONS.md as it contains all the information you need to know about how the wishlist file will be processed in DIM, so you can know how to mark things in the actual text file. Definitely read it all the way through. This will inform you on how to make notes, what sites will help you build out all your rolls, etc. I'm not going to summarize everything they have to say.
 
