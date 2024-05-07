@@ -1,0 +1,25 @@
+title:This is a compiled collection of god/recommended rolls from users in the ToxicMinds Discord server.
+description:Our contributers are CrazedChrizz, TheNameBrand,
+
+// hosted on GitHub at https://github.com/TheNameBrand/ToxicMindsD2Rolls/tree/main
+
+
+// Tusk of the Boar
+
+// (PvE 2/5)
+// Slice, Deconstruct
+//notes:(2/5 Roll) Deconstruct on a waveframe means you can practically use this as a primary weapon in places with high minor ad counts like Onslaught, and Slice is the icing on the cake. Definitely need one of these before Final Shape. MW:Reload -CrazedChrizz|tags: PvE, PvE-MinorSpec, PvE-EndGame
+dimwishlist:item=1218113510&perks=923806249,3993379141
+
+// (PvE 5/5)
+// Quick Launch, High-Velocity Rounds, Slice, Deconstruct
+//notes:(PVE GODROLL) Deconstruct on a waveframe means you can practically use this as a primary weapon in places with high minor ad counts like Onslaught, and Slice is the icing on the cake. -CrazedChrizz|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,3993379141,2120661319
+
+
+// Indebted Kindness
+
+// TrashRolls
+// Loose Change, Surrounded
+//notes:Listen, there are some great perks for this gun, but Loose Change, Surrounded? Shard on sight. Inspired by (YouTuber name) -TheNameBrand
+dimwishlist:item=-3381450498&perks=1119449540,3708227201
