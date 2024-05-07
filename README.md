@@ -1,16 +1,16 @@
 # ToxicMindsD2Rolls
 Repository for a custom weapon rolls wishlist text file compatible with Destiny Item Manager.
-Weapon rolls are curated by ToxicMinds community members, compiled from various sources and research. Notes are provided when possible.
+Weapon rolls are curated by ToxicMinds community members, compiled from various sources and research.
 
 # How To Subscribe
 Open Destiny Item Manager and pull open the settings from the hamburger menu. Click on wishlist in the sidebar to scroll down to the wishlist section.
-In the "add another wishlist" field, paste this URL: "[URL]" -- This links to the weapon file in this repository.
+In the "add another wishlist" field, paste this URL: https://raw.githubusercontent.com/TheNameBrand/ToxicMindsD2Rolls/main/ToxicMindsD2Rolls.txt -- This links to the weapon file in this repository.
 You're done. If any changes are made to this file, it will update over a period of 24 hours (so editors, don't expect to go farming the same day you add your god-rolls to the list).
 Wishlisted items will show with a "thumbs up" in the inventory overview. If configured, "trash rolls" (bad perk combos) will be a thumbs down.
 Check the Triage for notes which may say why the perk combo was wishlisted, which community member included it, etc.
 
 # How To Edit
-For editing access, DM @TheNameBrand on Discord.
+For editing access, DM @TheNameBrand on Discord and he'll add you to this GitHub? I think that's how that works...
 Editors can push changes to the TXT file here to add rolls to the list.
 
 You're going to want to bookmark DIMs Community_Curations README https://github.com/DestinyItemManager/DIM/blob/master/docs/COMMUNITY_CURATIONS.md as it contains all the information you need to know about how the wishlist file will be processed in DIM, so you can know how to mark things in the actual text file. Definitely read it all the way through. This will inform you on how to make notes, what sites will help you build out all your rolls, etc. I'm not going to summarize everything they have to say.
@@ -26,9 +26,9 @@ But if you're familiar with DIM as a user, and have read through the Community_C
 
 Their list is LONG and extensive because they have a lot of PERMUTATIONS for different guns, meaning, they mix and match a bunch of barrel, mag, and perk combos that work for a million different scenarios, and are all okay in the specific noted function to some degree. I'm imagining our list to be a little more curated than that. But in the case you do want to spec out a bunch of different but equally viable Edge Transit rolls there are tools to help you build out those permutations, found in the Community_Curations README above. Those tools will probably be faster than just copying the line of code right from DIM. What also would be faster is if you opened other wishlists (say, the one from above), and did a CTRL+F on the weapon you're thinking of. High chances they've done the hard work on the roll you're thinking of, can copy and paste it into the ToxicMinds TXT. Just don't forget to replace the description with your own quippy fun one haha.
 
-Here's how I'm imagining our wishlist to look when it comes to individual weapons:
+Here's kinda how I'm imagining our wishlist to look when it comes to individual weapons:
 
-[// Tusk of the Boar (PvE 2/5)
+// Tusk of the Boar (PvE 2/5)
 // Slice, Deconstruct
 //notes:(2/5 Roll) Deconstruct on a waveframe means you can practically use this as a primary weapon in places with high minor ad counts like Onslaught, and Slice is the icing on the cake. Definitely need one of these before Final Shape. MW:Reload -CrazedChrizz|tags: PvE, PvE-MinorSpec, PvE-EndGame dimwishlist:item=1218113510&perks=923806249,3993379141
 
@@ -40,7 +40,7 @@ dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,3993379141,212
 // Indebted Kindness TrashRoll
 // Loose Change, Surrounded
 //notes:Listen, there are some great perks for this gun, but Loose Change, Surrounded? Shard on sight. Inspired by (YouTuber name) -TheNameBrand
-dimwishlist:item=-3381450498&perks=1119449540,3708227201]
+dimwishlist:item=-3381450498&perks=1119449540,3708227201
 
 We'll kinda feel it out as we go and figure out better tags and naming conventions, but all this info... should give us a nice start.
 I also don't know where to add it but if you use certain weapons a ton, add those too! I think it would be fun to be able to see in the wishlist notes if I (or anyone) just so happens to pick up the exact roll of (playernames) ol' reliable (whatever weapon it is) with thousands of kills or what have you.
