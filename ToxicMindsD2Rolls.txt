@@ -4,22 +4,55 @@ description:This is a compiled collection of god/recommended rolls from users in
 // hosted on GitHub at https://github.com/TheNameBrand/ToxicMindsD2Rolls/tree/main
 
 
+
 // Tusk of the Boar
 
-// (PvE 2/5)
-// Slice, Deconstruct
-//notes:(2/5 Roll) Deconstruct on a waveframe means you can practically use this as a primary weapon in places with high minor ad counts like Onslaught, and Slice is the icing on the cake. Definitely need one of these before Final Shape. MW:Reload -CrazedChrizz|tags: PvE, PvE-MinorSpec, PvE-EndGame
+// PVE Rolls
+
+// 2/5 - Slice, Deconstruct (5/7/24)
+//notes:(PvE 2/5) Chris has recently converted me to Deconstruct, and it on a waveframe means you can practically use this as a primary weapon in places with high minor ad counts like Onslaught, and Slice is the icing on the cake. Definitely need one of these before Final Shape. MW:Reload -TheNameBrand (5/24)|tags: PvE, PvE-MinorSpec, PvE-EndGame
 dimwishlist:item=1218113510&perks=923806249,3993379141
 
-// (PvE 5/5)
-// Quick Launch, High-Velocity Rounds, Slice, Deconstruct
-//notes:(PVE GODROLL) Deconstruct on a waveframe means you can practically use this as a primary weapon in places with high minor ad counts like Onslaught, and Slice is the icing on the cake. -CrazedChrizz|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+// 5/5 - Quick Launch, High-Velocity Rounds, Slice, Deconstruct (5/7/24)
+//notes:(PVE GODROLL) Chris has recently converted me to Deconstruct, and it on a waveframe means you can practically use this as a primary weapon in places with high minor ad counts like Onslaught, and Slice is the icing on the cake. -TheNameBrand (5/24)|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,3993379141,2120661319
+
 
 
 // Indebted Kindness
 
+// PVE Rolls
+
+// 2/5 - Lead from Gold, Deconstruct (5/8/24)
+//notes:(PvE 2/5) WOW I love this gun and perk combo. DELETES majors like nobodies business. I use it like a primary weapon because LfG & Decon are TOO good together. Highly recommend it. -TheNameBrand (5/24)|tags: PvE, PvE-MajorSpec
+
+
 // TrashRolls
-// Loose Change, Surrounded
-//notes:Listen, there are some great perks for this gun, but Loose Change, Surrounded? Shard on sight. Inspired by (YouTuber name) -TheNameBrand
+
+// Loose Change, Surrounded (5/7/24)
+//notes:Listen, there are some great perks for this gun, but Loose Change, Surrounded... there are better combos. Shard on sight, IMO. -TheNameBrand (5/24)|tags: Trashroll, Junk, Garbage
 dimwishlist:item=-3381450498&perks=1119449540,3708227201
+
+
+
+// Forbearance
+
+// PVE Rolls
+
+// Shiny & Regular Brave Variant
+// Ambitious Assassin, Chain Reaction (5/8/24)
+//notes:(PvE 2/5) To me, this is the best perk combo, especially for those of us that don't have an adept, or craftable raid variant. -TheNameBrand (5/24)|tags: PvE, PvE-MinorSpec
+dimwishlist:item=2480074702&perks=2010801679,2396489472
+dimwishlist:item=568611921&perks=2010801679,2396489472
+
+
+
+// Edge Transit
+
+// PVE Rolls
+
+// Shiny & Regular Brave Variant
+// Envious Assassin, Bait and Switch (5/8/24)
+//notes:(PvE 2/5) Kill some ads, damage boss with other weapons, then swap and let it RIP. -TheNameBrand (5/24)|tags: PvE, PvE-BossSpec
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=2228325504&perks=968510818,3078487919
